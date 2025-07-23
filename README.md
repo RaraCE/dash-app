@@ -1,2 +1,8 @@
-# dash-app
-A Dash app built in a cloud IDE to visualize data
+# Dash Airline App
+
+A Dash app that uses Plotly and Pandas to visualize total flights by destination state, filtered by year. Built and tested in a cloud IDE environment.
+
+## How to Run
+
+1. Install requirements: `pip install dash pandas plotly`
+2. Run the app: `python app.py`
