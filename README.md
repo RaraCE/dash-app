@@ -8,4 +8,7 @@ A Dash app that uses Plotly and Pandas to visualize total flights by destination
 2. Run the app: `python app.py`
 
 
-https://potential-palm-tree-jqg7pqxj557h5p5q.github.dev/
+Codespace: https://potential-palm-tree-jqg7pqxj557h5p5q.github.dev/
+
+
+<img width="1666" height="1226" alt="image" src="https://github.com/user-attachments/assets/ff09107f-c118-414b-9c95-b3de1efd8f9b" />
